@@ -1,0 +1,9 @@
+.div {
+  display: none;
+}
+
+.div .is_active {
+  display: block;
+  padding: 30px;
+  width: 200px;
+}
